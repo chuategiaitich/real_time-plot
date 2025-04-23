@@ -1,2 +1,2 @@
-serial plot format:
+plotting format:
 string(">value: ") + string(value)
